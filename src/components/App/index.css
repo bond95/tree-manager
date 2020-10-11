@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.App .top-panel {
+  height: 100px;
+}
+
+.App .konvajs-content {
+  margin: 5px;
+  border: 1px solid;
+}
